@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#0F3D3E"/></linearGradient></defs>
+<rect width="560" height="250" rx="22" fill="url(#g)" stroke="#30363D"/>
+<text x="34" y="52" fill="#58A6FF" font-family="Arial" font-size="16" font-weight="700">ANDROID OPEN SOURCE</text>
+<text x="34" y="92" fill="#F0F6FC" font-family="Arial" font-size="29" font-weight="700">HijriDatePickerPlus</text>
+<text x="34" y="122" fill="#C9D1D9" font-family="Arial" font-size="18">Hijri calendar date picker for Jetpack Compose</text>
+<text x="34" y="165" fill="#8B949E" font-family="Arial" font-size="15">Umm Al-Qura • Islamic Civil • General Islamic</text>
+<text x="34" y="190" fill="#8B949E" font-family="Arial" font-size="15">Jetpack Compose • Kotlin • JitPack Library</text>
+<text x="34" y="222" fill="#2EA043" font-family="Arial" font-size="14" font-weight="700">OPEN SOURCE  •  ANDROID  •  UI LIBRARY</text>
+</svg>
