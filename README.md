@@ -63,7 +63,7 @@ AI-driven mobile quality engineering for real-device validation and evidence-bac
 
 ![GeofenceKit Platform](./assets/geofencekit.svg)
 
-### GeofenceKit
+### [GeofenceKit](https://github.com/mohamedma872/geofencekit-platform)
 
 End-to-end **multi-platform geofencing and location intelligence product** spanning mobile SDKs, backend services, dashboard, analytics, webhooks, and product onboarding.
 
@@ -83,6 +83,8 @@ End-to-end **multi-platform geofencing and location intelligence product** spann
 
 **Engineering focus:**  
 `Product Architecture` · `SDK Design` · `SaaS` · `Backend Systems` · `Web Applications` · `Location Services` · `Offline Events`
+
+[Platform Repository](https://github.com/mohamedma872/geofencekit-platform) · [Live Website](https://geofencekit.com)
 
 ---
 
