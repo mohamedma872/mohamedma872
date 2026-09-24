@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#2E1065"/></linearGradient></defs>
+<rect width="560" height="250" rx="22" fill="url(#g)" stroke="#30363D"/>
+<text x="34" y="52" fill="#8B5CF6" font-family="Arial" font-size="16" font-weight="700">AI QUALITY ENGINEERING</text>
+<text x="34" y="92" fill="#F0F6FC" font-family="Arial" font-size="31" font-weight="700">qc-check</text>
+<text x="34" y="122" fill="#C9D1D9" font-family="Arial" font-size="18">AI-driven mobile QC on real devices</text>
+<text x="34" y="165" fill="#8B949E" font-family="Arial" font-size="15">Appium • Backend Contract Validation • Evidence</text>
+<text x="34" y="190" fill="#8B949E" font-family="Arial" font-size="15">Android • iOS • React Native • Real Device Testing</text>
+<text x="34" y="222" fill="#2EA043" font-family="Arial" font-size="14" font-weight="700">MOBILE QA  •  AUTOMATION  •  AI AGENTS</text>
+</svg>
