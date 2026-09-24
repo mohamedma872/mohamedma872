@@ -1,36 +1,12 @@
-# Mohamed Elsedoudi
+![Mohamed Elsedoudi — Engineering Manager](./assets/banner.svg)
 
-### Engineering Manager • Software Architecture • Mobile Engineering • AI-Assisted Development
+<div align="center">
 
-Building high-performing engineering teams and scalable software systems.
+**Engineering Leadership** · **Software Architecture** · **SaaS Platforms** · **Mobile** · **AI Engineering**
 
-`Engineering Leadership` · `System Design` · `Mobile` · `Architecture` · `AI Engineering` · `Developer Productivity`
+</div>
 
----
-
-## About Me
-
-I'm an **Engineering Manager and Software Engineer with 12+ years of experience** building software products, leading engineering teams, and designing scalable mobile and backend systems.
-
-My background started deeply hands-on with **Android and iOS engineering** and expanded into **React Native, Flutter, backend systems, architecture, engineering management, and AI-assisted software development**.
-
-Today, I focus on the intersection of:
-
-- Engineering leadership and team development
-- Software and system architecture
-- Technical strategy and engineering standards
-- Mobile platform engineering
-- Delivery excellence and developer productivity
-- AI-assisted engineering workflows
-- Quality, security, performance, and maintainability
-
-I still build.
-
-I believe strong engineering leaders should understand both the **people system** and the **technical system**.
-
----
-
-## Engineering Leadership
+## 01 — Engineering Leadership
 
 ```text
 Business Goals
@@ -62,7 +38,7 @@ Metrics & Continuous Improvement
 
 ---
 
-# Featured Engineering Work
+# 02 — Featured Engineering Work
 
 ## Agentic Engineering Workflow
 
@@ -116,7 +92,9 @@ Focus:
 
 ---
 
-# GeofenceKit Platform
+![GeofenceKit Platform](./assets/geofencekit.svg)
+
+# 03 — GeofenceKit Platform
 
 ## Multi-Platform Location Intelligence & Geofencing Solution
 
@@ -221,7 +199,9 @@ This project reflects work across:
 
 ---
 
-# WasteHero — SaaS Route Optimization & Navigation Platform
+![WasteHero SaaS Route Optimization](./assets/wastehero.svg)
+
+# 04 — WasteHero — SaaS Route Optimization & Navigation Platform
 
 I worked on **WasteHero**, a SaaS platform focused on waste collection operations, route planning, route optimization, and driver execution.
 
@@ -344,7 +324,7 @@ It required balancing:
 
 ---
 
-# Architecture & Distributed Systems
+# 05 — Architecture & Distributed Systems
 
 I have hands-on experience designing systems using **Domain-Driven Design (DDD), Clean Architecture, modular architecture, asynchronous messaging, and service-oriented boundaries**.
 
@@ -483,7 +463,7 @@ I evaluate architecture based on practical trade-offs including maintainability,
 
 ---
 
-## Technical Background
+## 06 — Technical Background
 
 ### Mobile
 `Kotlin` · `Java` · `Swift` · `Objective-C` · `React Native` · `Flutter`
@@ -513,7 +493,7 @@ I evaluate architecture based on practical trade-offs including maintainability,
 
 ---
 
-## Engineering Philosophy
+## 07 — Engineering Philosophy
 
 ```text
 People before process.
