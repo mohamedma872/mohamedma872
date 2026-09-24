@@ -111,6 +111,17 @@ Worked on a production SaaS platform for route planning, route optimization, and
 
 ---
 
+![HijriDatePickerPlus](./assets/hijri-date-picker-plus.svg)
+
+### [HijriDatePickerPlus](https://github.com/mohamedma872/HijriDatePickerPlus)
+
+Open-source Android library providing a flexible **Hijri (Islamic) date picker for Jetpack Compose**, with support for **Umm Al-Qura, Islamic Civil, and General Islamic** calendar systems.
+
+**Key areas:**  
+`Kotlin` · `Jetpack Compose` · `Android Library` · `Hijri Calendar` · `Umm Al-Qura` · `JitPack`
+
+---
+
 # 03 — Architecture & Distributed Systems
 
 I design systems around business boundaries, maintainability, reliability, and clear ownership.
