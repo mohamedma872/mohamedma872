@@ -40,6 +40,8 @@ Metrics & Continuous Improvement
 
 # 02 — Featured Engineering Work
 
+![AI Agent Workflow](./assets/ai-agent-workflow-kit.svg)
+
 ## Agentic Engineering Workflow
 
 ### [ai-agent-workflow-kit](https://github.com/mohamedma872/ai-agent-workflow-kit)
@@ -63,6 +65,8 @@ Designed for:
 `Android` · `iOS` · `React Native` · `Flutter` · `Frontend` · `Backend`
 
 ---
+
+![QC Check](./assets/qc-check.svg)
 
 ## AI-Assisted Mobile Quality Engineering
 
