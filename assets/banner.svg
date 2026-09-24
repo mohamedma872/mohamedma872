@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0D1117"/>
+    <stop offset="55%" stop-color="#111827"/>
+    <stop offset="100%" stop-color="#312E81"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#58A6FF"/>
+    <stop offset="100%" stop-color="#8B5CF6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#g)"/>
+<circle cx="1060" cy="75" r="150" fill="#58A6FF" opacity=".07"/>
+<circle cx="1120" cy="320" r="210" fill="#8B5CF6" opacity=".08"/>
+<rect x="68" y="66" width="92" height="7" rx="3.5" fill="url(#accent)"/>
+<text x="68" y="135" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">MOHAMED ELSEDOUDI</text>
+<text x="68" y="190" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">ENGINEERING MANAGER</text>
+<text x="68" y="238" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="24">Building high-performing teams and scalable software platforms</text>
+<text x="68" y="298" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="20">ARCHITECTURE  •  SAAS  •  MOBILE  •  AI ENGINEERING  •  DELIVERY</text>
+</svg>
